@@ -1,4 +1,4 @@
-name: Grading workflow
+name: Grading-workflow
 on: 
   push:
     paths:
