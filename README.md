@@ -1,4 +1,4 @@
-[![Grading-workflow Actions Status](https://github.com/a-a-ron/ubiquitous-octo-succotash/workflows/Grading-workflow/badge.svg)](https://github.com/a-a-ron/ubiquitous-octo-succotash/actions)
+[![Grading-workflow Actions Status](https://github.com/a-a-ron/ubiquitous-octo-succotash/workflows/Grading-workflow/badge.svg?branch=my-workflow)](https://github.com/a-a-ron/ubiquitous-octo-succotash/actions)
 
 # Welcome to the scheduled events lab!
 - [About the codebase](#about-the-codebase)
