@@ -2,6 +2,8 @@
 
 @{{ user.username }}
 
+$GITHUB_SERVER_URL
+
 # Welcome to the scheduled events lab!
 - [About the codebase](#about-the-codebase)
 - [Lab instructions](#lab-instructions)
